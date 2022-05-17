@@ -5,3 +5,5 @@ class Die extends Component {
         return <h1>DIE!</h1>
     }
 }
+
+export default Die;
