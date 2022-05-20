@@ -2,7 +2,7 @@ import React, {Component} from "react";
 
 class Die extends Component {
     render() {
-        return <h1>DIE!</h1>
+        return <i className="fas fa-dice-one"></i>
     }
 }
 
