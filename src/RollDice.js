@@ -15,3 +15,5 @@ class RollDice extends Component {
         )
     }
 }
+
+export default RollDice;
