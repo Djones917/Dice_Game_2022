@@ -9,6 +9,10 @@ class RollDice extends Component {
         super(props);
         this.state = {die1: 'one', die2: 'one'};
     }
+    roll() {
+        // Pick two new rolls
+        // Set State with new rolls
+    }
     render() {
         return (
             <div>
