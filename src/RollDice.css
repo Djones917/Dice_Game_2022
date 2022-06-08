@@ -1,6 +1,7 @@
 .RollDice {
     display: flex;
     flex-flow: nowrap;
+    min-height:  100vh;
 }
 
 .RollDice button {
