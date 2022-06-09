@@ -1,8 +1,8 @@
-.RollDice {
+/*.RollDice {
     display: flex;
     flex-flow: nowrap;
-    /*min-height: 100vh;*/
-}
+    min-height: 100vh;
+}*/
 
 .RollDice-container {
     display: flex;
